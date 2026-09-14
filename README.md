@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9add54fd-7889-44ab-af1f-1091cd938e38" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/c2ebb95f-3fa5-4dbf-8219-f7f3e299cb0e" />
+
 
 
 # ⛑️ Helmet Detector
